@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <filter>
+        <filter-name>LoginFilter</filter-name>
+        <filter-class>ca.wquintal.helios.filter.LoginFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>LoginFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+    <servlet>
+        <servlet-name>config</servlet-name>
+        <servlet-class>ca.wquintal.helios.api.init.config</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>account</servlet-name>
+        <servlet-class>ca.wquintal.helios.api.account</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>YaseConfigServlet</servlet-name>
+        <servlet-class>ca.wquintal.helios.api.YaseConfigServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>config</servlet-name>
+        <url-pattern>/api/init/config</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>account</servlet-name>
+        <url-pattern>/api/account</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>YaseConfigServlet</servlet-name>
+        <url-pattern>/api/yase/config</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>
