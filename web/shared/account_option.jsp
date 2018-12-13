@@ -88,11 +88,9 @@
 </div>
 	
 
-
+	<h3>Option compte</h3>
 <div class="row">
-    <a href="/helios/yase_creator.html" class="btn btn-primary btn-block">YASE Creator</a>
     <a href="/helios/account/logout.jsp" class="btn btn-primary btn-block">Déconnecter</a>
     <a class="btn btn-primary btn-block" data-toggle="modal" data-target="#modalConfigDb">Changer mot de passe</a>
     <a class="btn btn-primary btn-block">Supprimer ce compte</a>
-    <a href="/helios/reset.jsp" class="btn btn-primary btn-block">Réinitialiser le site</a>
 </div>

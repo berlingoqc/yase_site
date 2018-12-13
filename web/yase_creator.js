@@ -198,7 +198,7 @@ Module['FS_createPath']('/model/test4', 'texture', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 185, "filename": "/default_shaders/frag_shader.glsl"}, {"start": 185, "audio": 0, "end": 365, "filename": "/default_shaders/frag_skybox.glsl"}, {"start": 365, "audio": 0, "end": 756, "filename": "/default_shaders/vert_shader.glsl"}, {"start": 756, "audio": 0, "end": 1020, "filename": "/default_shaders/vert_skybox.glsl"}, {"start": 1020, "audio": 0, "end": 182816, "filename": "/model/brickred.jpg"}, {"start": 182816, "audio": 0, "end": 412808, "filename": "/model/brickred.png"}, {"start": 412808, "audio": 0, "end": 535497, "filename": "/model/building1.png"}, {"start": 535497, "audio": 0, "end": 536373, "filename": "/model/building_1.mtl"}, {"start": 536373, "audio": 0, "end": 548862, "filename": "/model/building_1.obj"}, {"start": 548862, "audio": 0, "end": 605335, "filename": "/model/Spherical_textures_18_spherical.jpg"}, {"start": 605335, "audio": 0, "end": 684762, "filename": "/model/Spherical_textures_18_spherical.png"}, {"start": 684762, "audio": 0, "end": 1966406, "filename": "/model/TexturesCom_BrickSmallReinforced0046_1_seamless_S.jpg"}, {"start": 1966406, "audio": 0, "end": 2114837, "filename": "/model/TexturesCom_BrickSmallReinforced0046_1_seamless_S.png"}, {"start": 2114837, "audio": 0, "end": 2505134, "filename": "/model/TexturesCom_MetalGalvanized0031_1_S.jpg"}, {"start": 2505134, "audio": 0, "end": 2685422, "filename": "/model/TexturesCom_MetalGalvanized0031_1_S.png"}, {"start": 2685422, "audio": 0, "end": 3699440, "filename": "/model/TexturesCom_MetalRusted0081_1_seamless_S.jpg"}, {"start": 3699440, "audio": 0, "end": 3832267, "filename": "/model/TexturesCom_MetalRusted0081_1_seamless_S.png"}, {"start": 3832267, "audio": 0, "end": 3832682, "filename": "/model/totem.mtl"}, {"start": 3832682, "audio": 0, "end": 3948794, "filename": "/model/totem.obj"}, {"start": 3948794, "audio": 0, "end": 8293517, "filename": "/model/bbb/back.png"}, {"start": 8293517, "audio": 0, "end": 12275411, "filename": "/model/bbb/bot.png"}, {"start": 12275411, "audio": 0, "end": 16509159, "filename": "/model/bbb/front.png"}, {"start": 16509159, "audio": 0, "end": 20833097, "filename": "/model/bbb/left.png"}, {"start": 20833097, "audio": 0, "end": 25127961, "filename": "/model/bbb/right.png"}, {"start": 25127961, "audio": 0, "end": 29289625, "filename": "/model/bbb/top.png"}, {"start": 29289625, "audio": 0, "end": 29436333, "filename": "/model/box/back.png"}, {"start": 29436333, "audio": 0, "end": 29579074, "filename": "/model/box/bot.png"}, {"start": 29579074, "audio": 0, "end": 29725124, "filename": "/model/box/front.png"}, {"start": 29725124, "audio": 0, "end": 29871177, "filename": "/model/box/left.png"}, {"start": 29871177, "audio": 0, "end": 30016769, "filename": "/model/box/right.png"}, {"start": 30016769, "audio": 0, "end": 30160482, "filename": "/model/box/top.png"}, {"start": 30160482, "audio": 0, "end": 30342278, "filename": "/model/m/brickred.jpg"}, {"start": 30342278, "audio": 0, "end": 30572270, "filename": "/model/m/brickred.png"}, {"start": 30572270, "audio": 0, "end": 30694959, "filename": "/model/m/building1.png"}, {"start": 30694959, "audio": 0, "end": 30695836, "filename": "/model/m/building_1.mtl"}, {"start": 30695836, "audio": 0, "end": 30708400, "filename": "/model/m/building_1.obj"}, {"start": 30708400, "audio": 0, "end": 30787827, "filename": "/model/m/Spherical_textures_18_spherical.png"}, {"start": 30787827, "audio": 0, "end": 30936258, "filename": "/model/m/TexturesCom_BrickSmallReinforced0046_1_seamless_S.png"}, {"start": 30936258, "audio": 0, "end": 31116546, "filename": "/model/m/TexturesCom_MetalGalvanized0031_1_S.png"}, {"start": 31116546, "audio": 0, "end": 31249373, "filename": "/model/m/TexturesCom_MetalRusted0081_1_seamless_S.png"}, {"start": 31249373, "audio": 0, "end": 31249788, "filename": "/model/m/totem.mtl"}, {"start": 31249788, "audio": 0, "end": 31365900, "filename": "/model/m/totem.obj"}, {"start": 31365900, "audio": 0, "end": 31366552, "filename": "/model/test4/env.yase"}, {"start": 31366552, "audio": 0, "end": 31393877, "filename": "/model/test4/model/build_1"}, {"start": 31393877, "audio": 0, "end": 31623869, "filename": "/model/test4/texture/brickred.png"}, {"start": 31623869, "audio": 0, "end": 31746558, "filename": "/model/test4/texture/building1.png"}], "remote_package_size": 31746558, "package_uuid": "f666e1c2-d3f3-4a6e-8448-cc3e5b539ce1"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 185, "filename": "/default_shaders/frag_shader.glsl"}, {"start": 185, "audio": 0, "end": 365, "filename": "/default_shaders/frag_skybox.glsl"}, {"start": 365, "audio": 0, "end": 756, "filename": "/default_shaders/vert_shader.glsl"}, {"start": 756, "audio": 0, "end": 1020, "filename": "/default_shaders/vert_skybox.glsl"}, {"start": 1020, "audio": 0, "end": 182816, "filename": "/model/brickred.jpg"}, {"start": 182816, "audio": 0, "end": 412808, "filename": "/model/brickred.png"}, {"start": 412808, "audio": 0, "end": 535497, "filename": "/model/building1.png"}, {"start": 535497, "audio": 0, "end": 536373, "filename": "/model/building_1.mtl"}, {"start": 536373, "audio": 0, "end": 548862, "filename": "/model/building_1.obj"}, {"start": 548862, "audio": 0, "end": 605335, "filename": "/model/Spherical_textures_18_spherical.jpg"}, {"start": 605335, "audio": 0, "end": 684762, "filename": "/model/Spherical_textures_18_spherical.png"}, {"start": 684762, "audio": 0, "end": 1966406, "filename": "/model/TexturesCom_BrickSmallReinforced0046_1_seamless_S.jpg"}, {"start": 1966406, "audio": 0, "end": 2114837, "filename": "/model/TexturesCom_BrickSmallReinforced0046_1_seamless_S.png"}, {"start": 2114837, "audio": 0, "end": 2505134, "filename": "/model/TexturesCom_MetalGalvanized0031_1_S.jpg"}, {"start": 2505134, "audio": 0, "end": 2685422, "filename": "/model/TexturesCom_MetalGalvanized0031_1_S.png"}, {"start": 2685422, "audio": 0, "end": 3699440, "filename": "/model/TexturesCom_MetalRusted0081_1_seamless_S.jpg"}, {"start": 3699440, "audio": 0, "end": 3832267, "filename": "/model/TexturesCom_MetalRusted0081_1_seamless_S.png"}, {"start": 3832267, "audio": 0, "end": 3832682, "filename": "/model/totem.mtl"}, {"start": 3832682, "audio": 0, "end": 3948794, "filename": "/model/totem.obj"}, {"start": 3948794, "audio": 0, "end": 8293517, "filename": "/model/bbb/back.png"}, {"start": 8293517, "audio": 0, "end": 12275411, "filename": "/model/bbb/bot.png"}, {"start": 12275411, "audio": 0, "end": 16509159, "filename": "/model/bbb/front.png"}, {"start": 16509159, "audio": 0, "end": 20833097, "filename": "/model/bbb/left.png"}, {"start": 20833097, "audio": 0, "end": 25127961, "filename": "/model/bbb/right.png"}, {"start": 25127961, "audio": 0, "end": 29289625, "filename": "/model/bbb/top.png"}, {"start": 29289625, "audio": 0, "end": 29436333, "filename": "/model/box/back.png"}, {"start": 29436333, "audio": 0, "end": 29579074, "filename": "/model/box/bot.png"}, {"start": 29579074, "audio": 0, "end": 29725124, "filename": "/model/box/front.png"}, {"start": 29725124, "audio": 0, "end": 29871177, "filename": "/model/box/left.png"}, {"start": 29871177, "audio": 0, "end": 30016769, "filename": "/model/box/right.png"}, {"start": 30016769, "audio": 0, "end": 30160482, "filename": "/model/box/top.png"}, {"start": 30160482, "audio": 0, "end": 30342278, "filename": "/model/m/brickred.jpg"}, {"start": 30342278, "audio": 0, "end": 30572270, "filename": "/model/m/brickred.png"}, {"start": 30572270, "audio": 0, "end": 30694959, "filename": "/model/m/building1.png"}, {"start": 30694959, "audio": 0, "end": 30695836, "filename": "/model/m/building_1.mtl"}, {"start": 30695836, "audio": 0, "end": 30708400, "filename": "/model/m/building_1.obj"}, {"start": 30708400, "audio": 0, "end": 30787827, "filename": "/model/m/Spherical_textures_18_spherical.png"}, {"start": 30787827, "audio": 0, "end": 30936258, "filename": "/model/m/TexturesCom_BrickSmallReinforced0046_1_seamless_S.png"}, {"start": 30936258, "audio": 0, "end": 31116546, "filename": "/model/m/TexturesCom_MetalGalvanized0031_1_S.png"}, {"start": 31116546, "audio": 0, "end": 31249373, "filename": "/model/m/TexturesCom_MetalRusted0081_1_seamless_S.png"}, {"start": 31249373, "audio": 0, "end": 31249788, "filename": "/model/m/totem.mtl"}, {"start": 31249788, "audio": 0, "end": 31365900, "filename": "/model/m/totem.obj"}, {"start": 31365900, "audio": 0, "end": 31366552, "filename": "/model/test4/env.yase"}, {"start": 31366552, "audio": 0, "end": 31393877, "filename": "/model/test4/model/build_1"}, {"start": 31393877, "audio": 0, "end": 31623869, "filename": "/model/test4/texture/brickred.png"}, {"start": 31623869, "audio": 0, "end": 31746558, "filename": "/model/test4/texture/building1.png"}], "remote_package_size": 31746558, "package_uuid": "63bc1e63-16e5-4ab4-a50c-32f97ab643cc"});
 
 })();
 
@@ -2028,8 +2028,8 @@ var ASM_CONSTS = [];
 
 STATIC_BASE = GLOBAL_BASE;
 
-STATICTOP = STATIC_BASE + 556880;
-/* global initializers */  __ATINIT__.push({ func: function() { __GLOBAL__I_000101() } }, { func: function() { __GLOBAL__sub_I_FBXMeshGeometry_cpp() } }, { func: function() { __GLOBAL__sub_I_iostream_cpp() } }, { func: function() { ___emscripten_environ_constructor() } }, { func: function() { __GLOBAL__sub_I_DDLNode_cpp() } }, { func: function() { __GLOBAL__sub_I_D3MFOpcPackage_cpp() } }, { func: function() { __GLOBAL__sub_I_D3MFExporter_cpp() } }, { func: function() { __GLOBAL__sub_I_D3MFImporter_cpp() } }, { func: function() { __GLOBAL__sub_I_X3DVocabulary_cpp() } }, { func: function() { __GLOBAL__sub_I_FIReader_cpp() } }, { func: function() { __GLOBAL__sub_I_X3DImporter_Networking_cpp() } }, { func: function() { __GLOBAL__sub_I_FBXExportNode_cpp() } }, { func: function() { __GLOBAL__sub_I_FBXExporter_cpp() } }, { func: function() { __GLOBAL__sub_I_main_cpp() } }, { func: function() { __GLOBAL__sub_I_OpenGEXImporter_cpp() } }, { func: function() { __GLOBAL__sub_I_OgreMaterial_cpp() } }, { func: function() { __GLOBAL__sub_I_OgreBinarySerializer_cpp() } }, { func: function() { __GLOBAL__sub_I_ObjExporter_cpp() } }, { func: function() { __GLOBAL__sub_I_ObjFileParser_cpp() } }, { func: function() { __GLOBAL__sub_I_ObjFileMtlImporter_cpp() } }, { func: function() { __GLOBAL__sub_I_DXFLoader_cpp() } }, { func: function() { __GLOBAL__sub_I_StepFileImporter_cpp() } }, { func: function() { __GLOBAL__sub_I_Assimp_cpp() } }, { func: function() { __GLOBAL__sub_I_imgui_draw_cpp() } }, { func: function() { __GLOBAL__sub_I_imgui_cpp() } });
+STATICTOP = STATIC_BASE + 558352;
+/* global initializers */  __ATINIT__.push({ func: function() { __GLOBAL__I_000101() } }, { func: function() { __GLOBAL__sub_I_FBXMeshGeometry_cpp() } }, { func: function() { __GLOBAL__sub_I_iostream_cpp() } }, { func: function() { ___emscripten_environ_constructor() } }, { func: function() { __GLOBAL__sub_I_DDLNode_cpp() } }, { func: function() { __GLOBAL__sub_I_D3MFOpcPackage_cpp() } }, { func: function() { __GLOBAL__sub_I_D3MFExporter_cpp() } }, { func: function() { __GLOBAL__sub_I_D3MFImporter_cpp() } }, { func: function() { __GLOBAL__sub_I_X3DVocabulary_cpp() } }, { func: function() { __GLOBAL__sub_I_FIReader_cpp() } }, { func: function() { __GLOBAL__sub_I_X3DImporter_Networking_cpp() } }, { func: function() { __GLOBAL__sub_I_FBXExportNode_cpp() } }, { func: function() { __GLOBAL__sub_I_FBXExporter_cpp() } }, { func: function() { ___cxx_global_var_init_36() } }, { func: function() { __GLOBAL__sub_I_OpenGEXImporter_cpp() } }, { func: function() { __GLOBAL__sub_I_OgreMaterial_cpp() } }, { func: function() { __GLOBAL__sub_I_OgreBinarySerializer_cpp() } }, { func: function() { __GLOBAL__sub_I_ObjExporter_cpp() } }, { func: function() { __GLOBAL__sub_I_ObjFileParser_cpp() } }, { func: function() { __GLOBAL__sub_I_ObjFileMtlImporter_cpp() } }, { func: function() { __GLOBAL__sub_I_DXFLoader_cpp() } }, { func: function() { __GLOBAL__sub_I_StepFileImporter_cpp() } }, { func: function() { __GLOBAL__sub_I_Assimp_cpp() } }, { func: function() { __GLOBAL__sub_I_imgui_draw_cpp() } }, { func: function() { __GLOBAL__sub_I_imgui_cpp() } }, { func: function() { __GLOBAL__sub_I_main_cpp() } });
 
 
 
@@ -2037,7 +2037,7 @@ STATICTOP = STATIC_BASE + 556880;
 
 
 
-var STATIC_BUMP = 556880;
+var STATIC_BUMP = 558352;
 Module["STATIC_BASE"] = STATIC_BASE;
 Module["STATIC_BUMP"] = STATIC_BUMP;
 
@@ -6628,6 +6628,414 @@ function copyTempDouble(ptr) {
       exit(status);
     }
 
+  function _emscripten_is_main_browser_thread() {
+      return !ENVIRONMENT_IS_WORKER;
+    }
+
+
+  
+  var Fetch={attr_t_offset_requestMethod:0,attr_t_offset_userData:32,attr_t_offset_onsuccess:36,attr_t_offset_onerror:40,attr_t_offset_onprogress:44,attr_t_offset_attributes:48,attr_t_offset_timeoutMSecs:52,attr_t_offset_withCredentials:56,attr_t_offset_destinationPath:60,attr_t_offset_userName:64,attr_t_offset_password:68,attr_t_offset_requestHeaders:72,attr_t_offset_overriddenMimeType:76,attr_t_offset_requestData:80,attr_t_offset_requestDataSize:84,fetch_t_offset_id:0,fetch_t_offset_userData:4,fetch_t_offset_url:8,fetch_t_offset_data:12,fetch_t_offset_numBytes:16,fetch_t_offset_dataOffset:24,fetch_t_offset_totalBytes:32,fetch_t_offset_readyState:40,fetch_t_offset_status:42,fetch_t_offset_statusText:44,fetch_t_offset___proxyState:108,fetch_t_offset___attributes:112,xhrs:[],worker:undefined,dbInstance:undefined,setu64:function (addr, val) {
+      HEAPU32[addr >> 2] = val;
+      HEAPU32[addr + 4 >> 2] = (val / 4294967296)|0;
+    },openDatabase:function (dbname, dbversion, onsuccess, onerror) {
+      try {
+        var openRequest = indexedDB.open(dbname, dbversion);
+      } catch (e) { return onerror(e); }
+  
+      openRequest.onupgradeneeded = function(event) {
+        var db = event.target.result;
+        if (db.objectStoreNames.contains('FILES')) {
+          db.deleteObjectStore('FILES');
+        }
+        db.createObjectStore('FILES');
+      };
+      openRequest.onsuccess = function(event) { onsuccess(event.target.result); };
+      openRequest.onerror = function(error) { onerror(error); };
+    },initFetchWorker:function () {
+      var stackSize = 128*1024;
+      var stack = allocate(stackSize>>2, "i32*", ALLOC_DYNAMIC);
+      Fetch.worker.postMessage({cmd: 'init', TOTAL_MEMORY: TOTAL_MEMORY, DYNAMICTOP_PTR: DYNAMICTOP_PTR, STACKTOP: stack, STACK_MAX: stack + stackSize, queuePtr: _fetch_work_queue, buffer: HEAPU8.buffer});
+    },staticInit:function () {
+      var isMainThread = (typeof ENVIRONMENT_IS_FETCH_WORKER === 'undefined');
+  
+      var onsuccess = function(db) {
+        Fetch.dbInstance = db;
+  
+        if (isMainThread) {
+          removeRunDependency('library_fetch_init');
+        }
+      };
+      var onerror = function() {
+        Fetch.dbInstance = false;
+  
+        if (isMainThread) {
+          removeRunDependency('library_fetch_init');
+        }
+      };
+      Fetch.openDatabase('emscripten_filesystem', 1, onsuccess, onerror);
+  
+      if (typeof ENVIRONMENT_IS_FETCH_WORKER === 'undefined' || !ENVIRONMENT_IS_FETCH_WORKER) addRunDependency('library_fetch_init');
+    }};
+  
+  function __emscripten_fetch_xhr(fetch, onsuccess, onerror, onprogress) {
+    var url = HEAPU32[fetch + Fetch.fetch_t_offset_url >> 2];
+    if (!url) {
+      onerror(fetch, 0, 'no url specified!');
+      return;
+    }
+    var url_ = Pointer_stringify(url);
+  
+    var fetch_attr = fetch + Fetch.fetch_t_offset___attributes;
+    var requestMethod = Pointer_stringify(fetch_attr);
+    if (!requestMethod) requestMethod = 'GET';
+    var userData = HEAPU32[fetch_attr + Fetch.attr_t_offset_userData >> 2];
+    var fetchAttributes = HEAPU32[fetch_attr + Fetch.attr_t_offset_attributes >> 2];
+    var timeoutMsecs = HEAPU32[fetch_attr + Fetch.attr_t_offset_timeoutMSecs >> 2];
+    var withCredentials = !!HEAPU32[fetch_attr + Fetch.attr_t_offset_withCredentials >> 2];
+    var destinationPath = HEAPU32[fetch_attr + Fetch.attr_t_offset_destinationPath >> 2];
+    var userName = HEAPU32[fetch_attr + Fetch.attr_t_offset_userName >> 2];
+    var password = HEAPU32[fetch_attr + Fetch.attr_t_offset_password >> 2];
+    var requestHeaders = HEAPU32[fetch_attr + Fetch.attr_t_offset_requestHeaders >> 2];
+    var overriddenMimeType = HEAPU32[fetch_attr + Fetch.attr_t_offset_overriddenMimeType >> 2];
+    var dataPtr = HEAPU32[fetch_attr + Fetch.attr_t_offset_requestData >> 2];
+    var dataLength = HEAPU32[fetch_attr + Fetch.attr_t_offset_requestDataSize >> 2];
+  
+    var fetchAttrLoadToMemory = !!(fetchAttributes & 1/*EMSCRIPTEN_FETCH_LOAD_TO_MEMORY*/);
+    var fetchAttrStreamData = !!(fetchAttributes & 2/*EMSCRIPTEN_FETCH_STREAM_DATA*/);
+    var fetchAttrPersistFile = !!(fetchAttributes & 4/*EMSCRIPTEN_FETCH_PERSIST_FILE*/);
+    var fetchAttrAppend = !!(fetchAttributes & 8/*EMSCRIPTEN_FETCH_APPEND*/);
+    var fetchAttrReplace = !!(fetchAttributes & 16/*EMSCRIPTEN_FETCH_REPLACE*/);
+    var fetchAttrNoDownload = !!(fetchAttributes & 32/*EMSCRIPTEN_FETCH_NO_DOWNLOAD*/);
+    var fetchAttrSynchronous = !!(fetchAttributes & 64/*EMSCRIPTEN_FETCH_SYNCHRONOUS*/);
+    var fetchAttrWaitable = !!(fetchAttributes & 128/*EMSCRIPTEN_FETCH_WAITABLE*/);
+  
+    var userNameStr = userName ? Pointer_stringify(userName) : undefined;
+    var passwordStr = password ? Pointer_stringify(password) : undefined;
+    var overriddenMimeTypeStr = overriddenMimeType ? Pointer_stringify(overriddenMimeType) : undefined;
+  
+    var xhr = new XMLHttpRequest();
+    xhr.withCredentials = withCredentials;
+    xhr.open(requestMethod, url_, !fetchAttrSynchronous, userNameStr, passwordStr);
+    if (!fetchAttrSynchronous) xhr.timeout = timeoutMsecs; // XHR timeout field is only accessible in async XHRs, and must be set after .open() but before .send().
+    xhr.url_ = url_; // Save the url for debugging purposes (and for comparing to the responseURL that server side advertised)
+    xhr.responseType = fetchAttrStreamData ? 'moz-chunked-arraybuffer' : 'arraybuffer';
+  
+    if (overriddenMimeType) {
+      xhr.overrideMimeType(overriddenMimeTypeStr);
+    }
+    if (requestHeaders) {
+      for(;;) {
+        var key = HEAPU32[requestHeaders >> 2];
+        if (!key) break;
+        var value = HEAPU32[requestHeaders + 4 >> 2];
+        if (!value) break;
+        requestHeaders += 8;
+        var keyStr = Pointer_stringify(key);
+        var valueStr = Pointer_stringify(value);
+        xhr.setRequestHeader(keyStr, valueStr);
+      }
+    }
+    Fetch.xhrs.push(xhr);
+    var id = Fetch.xhrs.length;
+    HEAPU32[fetch + Fetch.fetch_t_offset_id >> 2] = id;
+    var data = (dataPtr && dataLength) ? HEAPU8.slice(dataPtr, dataPtr + dataLength) : null;
+    // TODO: Support specifying custom headers to the request.
+  
+    xhr.onload = function(e) {
+      var len = xhr.response ? xhr.response.byteLength : 0;
+      var ptr = 0;
+      var ptrLen = 0;
+      if (fetchAttrLoadToMemory && !fetchAttrStreamData) {
+        ptrLen = len;
+        // The data pointer malloc()ed here has the same lifetime as the emscripten_fetch_t structure itself has, and is
+        // freed when emscripten_fetch_close() is called.
+        ptr = _malloc(ptrLen);
+        HEAPU8.set(new Uint8Array(xhr.response), ptr);
+      }
+      HEAPU32[fetch + Fetch.fetch_t_offset_data >> 2] = ptr;
+      Fetch.setu64(fetch + Fetch.fetch_t_offset_numBytes, ptrLen);
+      Fetch.setu64(fetch + Fetch.fetch_t_offset_dataOffset, 0);
+      if (len) {
+        // If the final XHR.onload handler receives the bytedata to compute total length, report that,
+        // otherwise don't write anything out here, which will retain the latest byte size reported in
+        // the most recent XHR.onprogress handler.
+        Fetch.setu64(fetch + Fetch.fetch_t_offset_totalBytes, len);
+      }
+      HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = xhr.readyState;
+      if (xhr.readyState === 4 && xhr.status === 0) {
+        if (len > 0) xhr.status = 200; // If loading files from a source that does not give HTTP status code, assume success if we got data bytes.
+        else xhr.status = 404; // Conversely, no data bytes is 404.
+      }
+      HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = xhr.status;
+      if (xhr.statusText) stringToUTF8(xhr.statusText, fetch + Fetch.fetch_t_offset_statusText, 64);
+      if (xhr.status >= 200 && xhr.status < 300) {
+        if (onsuccess) onsuccess(fetch, xhr, e);
+      } else {
+        if (onerror) onerror(fetch, xhr, e);
+      }
+    }
+    xhr.onerror = function(e) {
+      var status = xhr.status; // XXX TODO: Overwriting xhr.status doesn't work here, so don't override anywhere else either.
+      if (xhr.readyState == 4 && status == 0) status = 404; // If no error recorded, pretend it was 404 Not Found.
+      HEAPU32[fetch + Fetch.fetch_t_offset_data >> 2] = 0;
+      Fetch.setu64(fetch + Fetch.fetch_t_offset_numBytes, 0);
+      Fetch.setu64(fetch + Fetch.fetch_t_offset_dataOffset, 0);
+      Fetch.setu64(fetch + Fetch.fetch_t_offset_totalBytes, 0);
+      HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = xhr.readyState;
+      HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = status;
+      if (onerror) onerror(fetch, xhr, e);
+    }
+    xhr.ontimeout = function(e) {
+      if (onerror) onerror(fetch, xhr, e);
+    }
+    xhr.onprogress = function(e) {
+      var ptrLen = (fetchAttrLoadToMemory && fetchAttrStreamData && xhr.response) ? xhr.response.byteLength : 0;
+      var ptr = 0;
+      if (fetchAttrLoadToMemory && fetchAttrStreamData) {
+        // The data pointer malloc()ed here has the same lifetime as the emscripten_fetch_t structure itself has, and is
+        // freed when emscripten_fetch_close() is called.
+        ptr = _malloc(ptrLen);
+        HEAPU8.set(new Uint8Array(xhr.response), ptr);
+      }
+      HEAPU32[fetch + Fetch.fetch_t_offset_data >> 2] = ptr;
+      Fetch.setu64(fetch + Fetch.fetch_t_offset_numBytes, ptrLen);
+      Fetch.setu64(fetch + Fetch.fetch_t_offset_dataOffset, e.loaded - ptrLen);
+      Fetch.setu64(fetch + Fetch.fetch_t_offset_totalBytes, e.total);
+      HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = xhr.readyState;
+      if (xhr.readyState >= 3 && xhr.status === 0 && e.loaded > 0) xhr.status = 200; // If loading files from a source that does not give HTTP status code, assume success if we get data bytes
+      HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = xhr.status;
+      if (xhr.statusText) stringToUTF8(xhr.statusText, fetch + Fetch.fetch_t_offset_statusText, 64);
+      if (onprogress) onprogress(fetch, xhr, e);
+    }
+    try {
+      xhr.send(data);
+    } catch(e) {
+      if (onerror) onerror(fetch, xhr, e);
+    }
+  }
+  
+  function __emscripten_fetch_cache_data(db, fetch, data, onsuccess, onerror) {
+    if (!db) {
+      onerror(fetch, 0, 'IndexedDB not available!');
+      return;
+    }
+  
+    var fetch_attr = fetch + Fetch.fetch_t_offset___attributes;
+    var destinationPath = HEAPU32[fetch_attr + Fetch.attr_t_offset_destinationPath >> 2];
+    if (!destinationPath) destinationPath = HEAPU32[fetch + Fetch.fetch_t_offset_url >> 2];
+    var destinationPathStr = Pointer_stringify(destinationPath);
+  
+    try {
+      var transaction = db.transaction(['FILES'], 'readwrite');
+      var packages = transaction.objectStore('FILES');
+      var putRequest = packages.put(data, destinationPathStr);
+      putRequest.onsuccess = function(event) {
+        HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = 4; // Mimic XHR readyState 4 === 'DONE: The operation is complete'
+        HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = 200; // Mimic XHR HTTP status code 200 "OK"
+        stringToUTF8("OK", fetch + Fetch.fetch_t_offset_statusText, 64);
+        onsuccess(fetch, 0, destinationPathStr);
+      };
+      putRequest.onerror = function(error) {
+        // Most likely we got an error if IndexedDB is unwilling to store any more data for this page.
+        // TODO: Can we identify and break down different IndexedDB-provided errors and convert those
+        // to more HTTP status codes for more information?
+        HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = 4; // Mimic XHR readyState 4 === 'DONE: The operation is complete'
+        HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = 413; // Mimic XHR HTTP status code 413 "Payload Too Large"
+        stringToUTF8("Payload Too Large", fetch + Fetch.fetch_t_offset_statusText, 64);
+        onerror(fetch, 0, error);
+      };
+    } catch(e) {
+      onerror(fetch, 0, e);
+    }
+  }
+  
+  function __emscripten_fetch_load_cached_data(db, fetch, onsuccess, onerror) {
+    if (!db) {
+      onerror(fetch, 0, 'IndexedDB not available!');
+      return;
+    }
+  
+    var fetch_attr = fetch + Fetch.fetch_t_offset___attributes;
+    var path = HEAPU32[fetch_attr + Fetch.attr_t_offset_destinationPath >> 2];
+    if (!path) path = HEAPU32[fetch + Fetch.fetch_t_offset_url >> 2];
+    var pathStr = Pointer_stringify(path);
+  
+    try {
+      var transaction = db.transaction(['FILES'], 'readonly');
+      var packages = transaction.objectStore('FILES');
+      var getRequest = packages.get(pathStr);
+      getRequest.onsuccess = function(event) {
+        if (event.target.result) {
+          var value = event.target.result;
+          var len = value.byteLength || value.length;
+  
+          // The data pointer malloc()ed here has the same lifetime as the emscripten_fetch_t structure itself has, and is
+          // freed when emscripten_fetch_close() is called.
+          var ptr = _malloc(len);
+          HEAPU8.set(new Uint8Array(value), ptr);
+          HEAPU32[fetch + Fetch.fetch_t_offset_data >> 2] = ptr;
+          Fetch.setu64(fetch + Fetch.fetch_t_offset_numBytes, len);
+          Fetch.setu64(fetch + Fetch.fetch_t_offset_dataOffset, 0);
+          Fetch.setu64(fetch + Fetch.fetch_t_offset_totalBytes, len);
+          HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = 4; // Mimic XHR readyState 4 === 'DONE: The operation is complete'
+          HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = 200; // Mimic XHR HTTP status code 200 "OK"
+          stringToUTF8("OK", fetch + Fetch.fetch_t_offset_statusText, 64);
+          onsuccess(fetch, 0, value);
+        } else {
+          // Succeeded to load, but the load came back with the value of undefined, treat that as an error since we never store undefined in db.
+          HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = 4; // Mimic XHR readyState 4 === 'DONE: The operation is complete'
+          HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = 404; // Mimic XHR HTTP status code 404 "Not Found"
+          stringToUTF8("Not Found", fetch + Fetch.fetch_t_offset_statusText, 64);
+          onerror(fetch, 0, 'no data');
+        }
+      };
+      getRequest.onerror = function(error) {
+        HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = 4; // Mimic XHR readyState 4 === 'DONE: The operation is complete'
+        HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = 404; // Mimic XHR HTTP status code 404 "Not Found"
+        stringToUTF8("Not Found", fetch + Fetch.fetch_t_offset_statusText, 64);
+        onerror(fetch, 0, error);
+      };
+    } catch(e) {
+      onerror(fetch, 0, e);
+    }
+  }
+  
+  function __emscripten_fetch_delete_cached_data(db, fetch, onsuccess, onerror) {
+    if (!db) {
+      onerror(fetch, 0, 'IndexedDB not available!');
+      return;
+    }
+  
+    var fetch_attr = fetch + Fetch.fetch_t_offset___attributes;
+    var path = HEAPU32[fetch_attr + Fetch.attr_t_offset_destinationPath >> 2];
+    if (!path) path = HEAPU32[fetch + Fetch.fetch_t_offset_url >> 2];
+    var pathStr = Pointer_stringify(path);
+  
+    try {
+      var transaction = db.transaction(['FILES'], 'readwrite');
+      var packages = transaction.objectStore('FILES');
+      var request = packages.delete(pathStr);
+      request.onsuccess = function(event) {
+        var value = event.target.result;
+        HEAPU32[fetch + Fetch.fetch_t_offset_data >> 2] = 0;
+        Fetch.setu64(fetch + Fetch.fetch_t_offset_numBytes, 0);
+        Fetch.setu64(fetch + Fetch.fetch_t_offset_dataOffset, 0);
+        Fetch.setu64(fetch + Fetch.fetch_t_offset_dataOffset, 0);
+        HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = 4; // Mimic XHR readyState 4 === 'DONE: The operation is complete'
+        HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = 200; // Mimic XHR HTTP status code 200 "OK"
+        stringToUTF8("OK", fetch + Fetch.fetch_t_offset_statusText, 64);
+        onsuccess(fetch, 0, value);
+      };
+      request.onerror = function(error) {
+        HEAPU16[fetch + Fetch.fetch_t_offset_readyState >> 1] = 4; // Mimic XHR readyState 4 === 'DONE: The operation is complete'
+        HEAPU16[fetch + Fetch.fetch_t_offset_status >> 1] = 404; // Mimic XHR HTTP status code 404 "Not Found"
+        stringToUTF8("Not Found", fetch + Fetch.fetch_t_offset_statusText, 64);
+        onerror(fetch, 0, error);
+      };
+    } catch(e) {
+      onerror(fetch, 0, e);
+    }
+  }
+  
+  
+  var _fetch_work_queue=allocate(12, "i32*", ALLOC_STATIC);function __emscripten_get_fetch_work_queue() {
+      return _fetch_work_queue;
+    }
+  
+  function _emscripten_is_main_runtime_thread() {
+      return 1;
+    }function _emscripten_start_fetch(fetch, successcb, errorcb, progresscb) {
+    if (typeof Module !== 'undefined') Module['noExitRuntime'] = true; // If we are the main Emscripten runtime, we should not be closing down.
+  
+    var fetch_attr = fetch + Fetch.fetch_t_offset___attributes;
+    var requestMethod = Pointer_stringify(fetch_attr);
+    var onsuccess = HEAPU32[fetch_attr + Fetch.attr_t_offset_onsuccess >> 2];
+    var onerror = HEAPU32[fetch_attr + Fetch.attr_t_offset_onerror >> 2];
+    var onprogress = HEAPU32[fetch_attr + Fetch.attr_t_offset_onprogress >> 2];
+    var fetchAttributes = HEAPU32[fetch_attr + Fetch.attr_t_offset_attributes >> 2];
+    var fetchAttrLoadToMemory = !!(fetchAttributes & 1/*EMSCRIPTEN_FETCH_LOAD_TO_MEMORY*/);
+    var fetchAttrStreamData = !!(fetchAttributes & 2/*EMSCRIPTEN_FETCH_STREAM_DATA*/);
+    var fetchAttrPersistFile = !!(fetchAttributes & 4/*EMSCRIPTEN_FETCH_PERSIST_FILE*/);
+    var fetchAttrAppend = !!(fetchAttributes & 8/*EMSCRIPTEN_FETCH_APPEND*/);
+    var fetchAttrReplace = !!(fetchAttributes & 16/*EMSCRIPTEN_FETCH_REPLACE*/);
+    var fetchAttrNoDownload = !!(fetchAttributes & 32/*EMSCRIPTEN_FETCH_NO_DOWNLOAD*/);
+  
+    var reportSuccess = function(fetch, xhr, e) {
+      if (onsuccess && typeof dynCall === 'function') Module['dynCall_vi'](onsuccess, fetch);
+      else if (successcb) successcb(fetch);
+    };
+  
+    var cacheResultAndReportSuccess = function(fetch, xhr, e) {
+      var storeSuccess = function(fetch, xhr, e) {
+        if (onsuccess && typeof dynCall === 'function') Module['dynCall_vi'](onsuccess, fetch);
+        else if (successcb) successcb(fetch);
+      };
+      var storeError = function(fetch, xhr, e) {
+        if (onsuccess && typeof dynCall === 'function') Module['dynCall_vi'](onsuccess, fetch);
+        else if (successcb) successcb(fetch);
+      };
+      __emscripten_fetch_cache_data(Fetch.dbInstance, fetch, xhr.response, storeSuccess, storeError);
+    };
+  
+    var reportProgress = function(fetch, xhr, e) {
+      if (onprogress && typeof dynCall === 'function') Module['dynCall_vi'](onprogress, fetch);
+      else if (progresscb) progresscb(fetch);
+    };
+  
+    var reportError = function(fetch, xhr, e) {
+      if (onerror && typeof dynCall === 'function') Module['dynCall_vi'](onerror, fetch);
+      else if (errorcb) errorcb(fetch);
+    };
+  
+    var performUncachedXhr = function(fetch, xhr, e) {
+      __emscripten_fetch_xhr(fetch, reportSuccess, reportError, reportProgress);
+    };
+  
+    var performCachedXhr = function(fetch, xhr, e) {
+      __emscripten_fetch_xhr(fetch, cacheResultAndReportSuccess, reportError, reportProgress);
+    };
+  
+    // Should we try IndexedDB first?
+    if (!fetchAttrReplace || requestMethod === 'EM_IDB_STORE' || requestMethod === 'EM_IDB_DELETE') {
+      if (!Fetch.dbInstance) {
+        reportError(fetch, 0, 'IndexedDB is not open');
+        return 0; // todo: free
+      }
+  
+      if (requestMethod === 'EM_IDB_STORE') {
+        var dataPtr = HEAPU32[fetch_attr + Fetch.attr_t_offset_requestData >> 2];
+        var dataLength = HEAPU32[fetch_attr + Fetch.attr_t_offset_requestDataSize >> 2];
+        var data = HEAPU8.slice(dataPtr, dataPtr + dataLength); // TODO(?): Here we perform a clone of the data, because storing shared typed arrays to IndexedDB does not seem to be allowed.
+        __emscripten_fetch_cache_data(Fetch.dbInstance, fetch, data, reportSuccess, reportError);
+      } else if (requestMethod === 'EM_IDB_DELETE') {
+        __emscripten_fetch_delete_cached_data(Fetch.dbInstance, fetch, reportSuccess, reportError);
+      } else if (fetchAttrNoDownload) {
+        __emscripten_fetch_load_cached_data(Fetch.dbInstance, fetch, reportSuccess, reportError);
+      } else if (fetchAttrPersistFile) {
+        __emscripten_fetch_load_cached_data(Fetch.dbInstance, fetch, reportSuccess, performCachedXhr);
+      } else {
+        __emscripten_fetch_load_cached_data(Fetch.dbInstance, fetch, reportSuccess, performUncachedXhr);
+      }
+    } else if (!fetchAttrNoDownload) {
+      if (fetchAttrPersistFile) {
+        __emscripten_fetch_xhr(fetch, cacheResultAndReportSuccess, reportError, reportProgress);
+      } else {
+        __emscripten_fetch_xhr(fetch, reportSuccess, reportError, reportProgress);
+      }
+    } else {
+      return 0; // todo: free
+    }
+    return fetch;
+  }
+
+  
+  function __exit(status) {
+      // void _exit(int status);
+      // http://pubs.opengroup.org/onlinepubs/000095399/functions/exit.html
+      exit(status);
+    }function _exit(status) {
+      __exit(status);
+    }
 
   function _getenv(name) {
       // char *getenv(const char *name);
@@ -9019,6 +9427,7 @@ Module["requestFullScreen"] = function Module_requestFullScreen(lockPointer, res
   Module["resumeMainLoop"] = function Module_resumeMainLoop() { Browser.mainLoop.resume() };
   Module["getUserMedia"] = function Module_getUserMedia() { Browser.getUserMedia() }
   Module["createContext"] = function Module_createContext(canvas, useWebGL, setInModule, webGLContextAttributes) { return Browser.createContext(canvas, useWebGL, setInModule, webGLContextAttributes) };
+Fetch.staticInit();;
 var GLctx; GL.init();
 DYNAMICTOP_PTR = staticAlloc(4);
 
@@ -9068,6 +9477,8 @@ function intArrayToString(array) {
 
 
 function nullFunc_di(x) { err("Invalid function pointer called with signature 'di'. Perhaps this is an invalid value (e.g. caused by calling a virtual method on a NULL pointer)? Or calling a function with an incorrect type, which will fail? (it is worth building your source files with -Werror (warnings are errors), as warnings can indicate undefined behavior which can cause this)");  err("Build with ASSERTIONS=2 for more info.");abort(x) }
+
+function nullFunc_dii(x) { err("Invalid function pointer called with signature 'dii'. Perhaps this is an invalid value (e.g. caused by calling a virtual method on a NULL pointer)? Or calling a function with an incorrect type, which will fail? (it is worth building your source files with -Werror (warnings are errors), as warnings can indicate undefined behavior which can cause this)");  err("Build with ASSERTIONS=2 for more info.");abort(x) }
 
 function nullFunc_diii(x) { err("Invalid function pointer called with signature 'diii'. Perhaps this is an invalid value (e.g. caused by calling a virtual method on a NULL pointer)? Or calling a function with an incorrect type, which will fail? (it is worth building your source files with -Werror (warnings are errors), as warnings can indicate undefined behavior which can cause this)");  err("Build with ASSERTIONS=2 for more info.");abort(x) }
 
@@ -9130,6 +9541,8 @@ function nullFunc_iiji(x) { err("Invalid function pointer called with signature 
 function nullFunc_iijj(x) { err("Invalid function pointer called with signature 'iijj'. Perhaps this is an invalid value (e.g. caused by calling a virtual method on a NULL pointer)? Or calling a function with an incorrect type, which will fail? (it is worth building your source files with -Werror (warnings are errors), as warnings can indicate undefined behavior which can cause this)");  err("Build with ASSERTIONS=2 for more info.");abort(x) }
 
 function nullFunc_ijiii(x) { err("Invalid function pointer called with signature 'ijiii'. Perhaps this is an invalid value (e.g. caused by calling a virtual method on a NULL pointer)? Or calling a function with an incorrect type, which will fail? (it is worth building your source files with -Werror (warnings are errors), as warnings can indicate undefined behavior which can cause this)");  err("Build with ASSERTIONS=2 for more info.");abort(x) }
+
+function nullFunc_jd(x) { err("Invalid function pointer called with signature 'jd'. Perhaps this is an invalid value (e.g. caused by calling a virtual method on a NULL pointer)? Or calling a function with an incorrect type, which will fail? (it is worth building your source files with -Werror (warnings are errors), as warnings can indicate undefined behavior which can cause this)");  err("Build with ASSERTIONS=2 for more info.");abort(x) }
 
 function nullFunc_ji(x) { err("Invalid function pointer called with signature 'ji'. Perhaps this is an invalid value (e.g. caused by calling a virtual method on a NULL pointer)? Or calling a function with an incorrect type, which will fail? (it is worth building your source files with -Werror (warnings are errors), as warnings can indicate undefined behavior which can cause this)");  err("Build with ASSERTIONS=2 for more info.");abort(x) }
 
@@ -9221,14 +9634,25 @@ function nullFunc_vijj(x) { err("Invalid function pointer called with signature 
 
 function nullFunc_vjii(x) { err("Invalid function pointer called with signature 'vjii'. Perhaps this is an invalid value (e.g. caused by calling a virtual method on a NULL pointer)? Or calling a function with an incorrect type, which will fail? (it is worth building your source files with -Werror (warnings are errors), as warnings can indicate undefined behavior which can cause this)");  err("Build with ASSERTIONS=2 for more info.");abort(x) }
 
-Module['wasmTableSize'] = 1218560;
+Module['wasmTableSize'] = 1251328;
 
-Module['wasmMaxTableSize'] = 1218560;
+Module['wasmMaxTableSize'] = 1251328;
 
 function invoke_di(index,a1) {
   var sp = stackSave();
   try {
     return Module["dynCall_di"](index,a1);
+  } catch(e) {
+    stackRestore(sp);
+    if (typeof e !== 'number' && e !== 'longjmp') throw e;
+    Module["setThrew"](1, 0);
+  }
+}
+
+function invoke_dii(index,a1,a2) {
+  var sp = stackSave();
+  try {
+    return Module["dynCall_dii"](index,a1,a2);
   } catch(e) {
     stackRestore(sp);
     if (typeof e !== 'number' && e !== 'longjmp') throw e;
@@ -9548,6 +9972,17 @@ function invoke_ijiii(index,a1,a2,a3,a4,a5) {
   var sp = stackSave();
   try {
     return Module["dynCall_ijiii"](index,a1,a2,a3,a4,a5);
+  } catch(e) {
+    stackRestore(sp);
+    if (typeof e !== 'number' && e !== 'longjmp') throw e;
+    Module["setThrew"](1, 0);
+  }
+}
+
+function invoke_jd(index,a1) {
+  var sp = stackSave();
+  try {
+    return Module["dynCall_jd"](index,a1);
   } catch(e) {
     stackRestore(sp);
     if (typeof e !== 'number' && e !== 'longjmp') throw e;
@@ -10030,7 +10465,7 @@ function invoke_vjii(index,a1,a2,a3,a4) {
 
 Module.asmGlobalArg = {};
 
-Module.asmLibraryArg = { "abort": abort, "assert": assert, "enlargeMemory": enlargeMemory, "getTotalMemory": getTotalMemory, "setTempRet0": setTempRet0, "getTempRet0": getTempRet0, "abortOnCannotGrowMemory": abortOnCannotGrowMemory, "abortStackOverflow": abortStackOverflow, "nullFunc_di": nullFunc_di, "nullFunc_diii": nullFunc_diii, "nullFunc_fi": nullFunc_fi, "nullFunc_fii": nullFunc_fii, "nullFunc_fiii": nullFunc_fiii, "nullFunc_i": nullFunc_i, "nullFunc_ii": nullFunc_ii, "nullFunc_iid": nullFunc_iid, "nullFunc_iidd": nullFunc_iidd, "nullFunc_iif": nullFunc_iif, "nullFunc_iii": nullFunc_iii, "nullFunc_iiif": nullFunc_iiif, "nullFunc_iiii": nullFunc_iiii, "nullFunc_iiiii": nullFunc_iiiii, "nullFunc_iiiiid": nullFunc_iiiiid, "nullFunc_iiiiii": nullFunc_iiiiii, "nullFunc_iiiiiid": nullFunc_iiiiiid, "nullFunc_iiiiiii": nullFunc_iiiiiii, "nullFunc_iiiiiiii": nullFunc_iiiiiiii, "nullFunc_iiiiiiiii": nullFunc_iiiiiiiii, "nullFunc_iiiiiiiiii": nullFunc_iiiiiiiiii, "nullFunc_iiiiiiiiiii": nullFunc_iiiiiiiiiii, "nullFunc_iiiiiiiiiiii": nullFunc_iiiiiiiiiiii, "nullFunc_iiiiiiiiiiiii": nullFunc_iiiiiiiiiiiii, "nullFunc_iiiiiiijjiii": nullFunc_iiiiiiijjiii, "nullFunc_iiiiiijjii": nullFunc_iiiiiijjii, "nullFunc_iiiiiijjiii": nullFunc_iiiiiijjiii, "nullFunc_iiiiij": nullFunc_iiiiij, "nullFunc_iij": nullFunc_iij, "nullFunc_iiji": nullFunc_iiji, "nullFunc_iijj": nullFunc_iijj, "nullFunc_ijiii": nullFunc_ijiii, "nullFunc_ji": nullFunc_ji, "nullFunc_jii": nullFunc_jii, "nullFunc_jiii": nullFunc_jiii, "nullFunc_jiiii": nullFunc_jiiii, "nullFunc_v": nullFunc_v, "nullFunc_vfffiii": nullFunc_vfffiii, "nullFunc_vfii": nullFunc_vfii, "nullFunc_vi": nullFunc_vi, "nullFunc_vidd": nullFunc_vidd, "nullFunc_vif": nullFunc_vif, "nullFunc_viff": nullFunc_viff, "nullFunc_vifff": nullFunc_vifff, "nullFunc_vifffii": nullFunc_vifffii, "nullFunc_viffi": nullFunc_viffi, "nullFunc_vii": nullFunc_vii, "nullFunc_viid": nullFunc_viid, "nullFunc_viidd": nullFunc_viidd, "nullFunc_viif": nullFunc_viif, "nullFunc_viifi": nullFunc_viifi, "nullFunc_viii": nullFunc_viii, "nullFunc_viiid": nullFunc_viiid, "nullFunc_viiifii": nullFunc_viiifii, "nullFunc_viiii": nullFunc_viiii, "nullFunc_viiiii": nullFunc_viiiii, "nullFunc_viiiiii": nullFunc_viiiiii, "nullFunc_viiiiiii": nullFunc_viiiiiii, "nullFunc_viiiiiiii": nullFunc_viiiiiiii, "nullFunc_viiiiiiiiii": nullFunc_viiiiiiiiii, "nullFunc_viiiiiiiiiiiiii": nullFunc_viiiiiiiiiiiiii, "nullFunc_viiiiiiiiiiiiiii": nullFunc_viiiiiiiiiiiiiii, "nullFunc_viiiiijjii": nullFunc_viiiiijjii, "nullFunc_viiiijjii": nullFunc_viiiijjii, "nullFunc_viiiijjiii": nullFunc_viiiijjiii, "nullFunc_viiijj": nullFunc_viiijj, "nullFunc_viij": nullFunc_viij, "nullFunc_viiji": nullFunc_viiji, "nullFunc_viijii": nullFunc_viijii, "nullFunc_viijj": nullFunc_viijj, "nullFunc_viijjii": nullFunc_viijjii, "nullFunc_vij": nullFunc_vij, "nullFunc_vijii": nullFunc_vijii, "nullFunc_vijiii": nullFunc_vijiii, "nullFunc_vijiiiii": nullFunc_vijiiiii, "nullFunc_vijj": nullFunc_vijj, "nullFunc_vjii": nullFunc_vjii, "invoke_di": invoke_di, "invoke_diii": invoke_diii, "invoke_fi": invoke_fi, "invoke_fii": invoke_fii, "invoke_fiii": invoke_fiii, "invoke_i": invoke_i, "invoke_ii": invoke_ii, "invoke_iid": invoke_iid, "invoke_iif": invoke_iif, "invoke_iii": invoke_iii, "invoke_iiif": invoke_iiif, "invoke_iiii": invoke_iiii, "invoke_iiiii": invoke_iiiii, "invoke_iiiiid": invoke_iiiiid, "invoke_iiiiii": invoke_iiiiii, "invoke_iiiiiii": invoke_iiiiiii, "invoke_iiiiiiii": invoke_iiiiiiii, "invoke_iiiiiiiii": invoke_iiiiiiiii, "invoke_iiiiiiiiii": invoke_iiiiiiiiii, "invoke_iiiiiiiiiii": invoke_iiiiiiiiiii, "invoke_iiiiiiiiiiii": invoke_iiiiiiiiiiii, "invoke_iiiiiiiiiiiii": invoke_iiiiiiiiiiiii, "invoke_iiiiiiijjiii": invoke_iiiiiiijjiii, "invoke_iiiiiijjii": invoke_iiiiiijjii, "invoke_iiiiiijjiii": invoke_iiiiiijjiii, "invoke_iiiiij": invoke_iiiiij, "invoke_iij": invoke_iij, "invoke_iiji": invoke_iiji, "invoke_iijj": invoke_iijj, "invoke_ijiii": invoke_ijiii, "invoke_ji": invoke_ji, "invoke_jii": invoke_jii, "invoke_jiii": invoke_jiii, "invoke_jiiii": invoke_jiiii, "invoke_v": invoke_v, "invoke_vfffiii": invoke_vfffiii, "invoke_vfii": invoke_vfii, "invoke_vi": invoke_vi, "invoke_vif": invoke_vif, "invoke_viff": invoke_viff, "invoke_vifff": invoke_vifff, "invoke_vifffii": invoke_vifffii, "invoke_viffi": invoke_viffi, "invoke_vii": invoke_vii, "invoke_viidd": invoke_viidd, "invoke_viif": invoke_viif, "invoke_viifi": invoke_viifi, "invoke_viii": invoke_viii, "invoke_viiid": invoke_viiid, "invoke_viiifii": invoke_viiifii, "invoke_viiii": invoke_viiii, "invoke_viiiii": invoke_viiiii, "invoke_viiiiii": invoke_viiiiii, "invoke_viiiiiii": invoke_viiiiiii, "invoke_viiiiiiii": invoke_viiiiiiii, "invoke_viiiiiiiiii": invoke_viiiiiiiiii, "invoke_viiiiiiiiiiiiii": invoke_viiiiiiiiiiiiii, "invoke_viiiiiiiiiiiiiii": invoke_viiiiiiiiiiiiiii, "invoke_viiiiijjii": invoke_viiiiijjii, "invoke_viiiijjii": invoke_viiiijjii, "invoke_viiiijjiii": invoke_viiiijjiii, "invoke_viiijj": invoke_viiijj, "invoke_viij": invoke_viij, "invoke_viiji": invoke_viiji, "invoke_viijii": invoke_viijii, "invoke_viijj": invoke_viijj, "invoke_viijjii": invoke_viijjii, "invoke_vij": invoke_vij, "invoke_vijii": invoke_vijii, "invoke_vijiii": invoke_vijiii, "invoke_vijiiiii": invoke_vijiiiii, "invoke_vijj": invoke_vijj, "invoke_vjii": invoke_vjii, "___assert_fail": ___assert_fail, "___buildEnvironment": ___buildEnvironment, "___cxa_allocate_exception": ___cxa_allocate_exception, "___cxa_atexit": ___cxa_atexit, "___cxa_begin_catch": ___cxa_begin_catch, "___cxa_call_unexpected": ___cxa_call_unexpected, "___cxa_end_catch": ___cxa_end_catch, "___cxa_find_matching_catch": ___cxa_find_matching_catch, "___cxa_find_matching_catch_2": ___cxa_find_matching_catch_2, "___cxa_find_matching_catch_3": ___cxa_find_matching_catch_3, "___cxa_find_matching_catch_4": ___cxa_find_matching_catch_4, "___cxa_free_exception": ___cxa_free_exception, "___cxa_get_exception_ptr": ___cxa_get_exception_ptr, "___cxa_pure_virtual": ___cxa_pure_virtual, "___cxa_rethrow": ___cxa_rethrow, "___cxa_throw": ___cxa_throw, "___cxa_uncaught_exception": ___cxa_uncaught_exception, "___gxx_personality_v0": ___gxx_personality_v0, "___lock": ___lock, "___map_file": ___map_file, "___resumeException": ___resumeException, "___setErrNo": ___setErrNo, "___syscall10": ___syscall10, "___syscall12": ___syscall12, "___syscall140": ___syscall140, "___syscall145": ___syscall145, "___syscall146": ___syscall146, "___syscall183": ___syscall183, "___syscall195": ___syscall195, "___syscall196": ___syscall196, "___syscall197": ___syscall197, "___syscall220": ___syscall220, "___syscall221": ___syscall221, "___syscall295": ___syscall295, "___syscall300": ___syscall300, "___syscall306": ___syscall306, "___syscall39": ___syscall39, "___syscall40": ___syscall40, "___syscall5": ___syscall5, "___syscall54": ___syscall54, "___syscall6": ___syscall6, "___syscall83": ___syscall83, "___syscall85": ___syscall85, "___syscall9": ___syscall9, "___syscall91": ___syscall91, "___unlock": ___unlock, "__addDays": __addDays, "__arraySum": __arraySum, "__isLeapYear": __isLeapYear, "_abort": _abort, "_atexit": _atexit, "_clock_gettime": _clock_gettime, "_emscripten_force_exit": _emscripten_force_exit, "_emscripten_get_now": _emscripten_get_now, "_emscripten_get_now_is_monotonic": _emscripten_get_now_is_monotonic, "_emscripten_memcpy_big": _emscripten_memcpy_big, "_emscripten_set_main_loop": _emscripten_set_main_loop, "_emscripten_set_main_loop_timing": _emscripten_set_main_loop_timing, "_fpathconf": _fpathconf, "_getenv": _getenv, "_glActiveTexture": _glActiveTexture, "_glAttachShader": _glAttachShader, "_glBindBuffer": _glBindBuffer, "_glBindSampler": _glBindSampler, "_glBindTexture": _glBindTexture, "_glBindVertexArray": _glBindVertexArray, "_glBlendEquation": _glBlendEquation, "_glBlendEquationSeparate": _glBlendEquationSeparate, "_glBlendFunc": _glBlendFunc, "_glBlendFuncSeparate": _glBlendFuncSeparate, "_glBufferData": _glBufferData, "_glClear": _glClear, "_glClearColor": _glClearColor, "_glCompileShader": _glCompileShader, "_glCreateProgram": _glCreateProgram, "_glCreateShader": _glCreateShader, "_glDeleteShader": _glDeleteShader, "_glDeleteTextures": _glDeleteTextures, "_glDeleteVertexArrays": _glDeleteVertexArrays, "_glDepthFunc": _glDepthFunc, "_glDepthMask": _glDepthMask, "_glDisable": _glDisable, "_glDrawArrays": _glDrawArrays, "_glDrawElements": _glDrawElements, "_glEnable": _glEnable, "_glEnableVertexAttribArray": _glEnableVertexAttribArray, "_glGenBuffers": _glGenBuffers, "_glGenTextures": _glGenTextures, "_glGenVertexArrays": _glGenVertexArrays, "_glGenerateMipmap": _glGenerateMipmap, "_glGetAttribLocation": _glGetAttribLocation, "_glGetIntegerv": _glGetIntegerv, "_glGetProgramInfoLog": _glGetProgramInfoLog, "_glGetProgramiv": _glGetProgramiv, "_glGetShaderInfoLog": _glGetShaderInfoLog, "_glGetShaderiv": _glGetShaderiv, "_glGetUniformLocation": _glGetUniformLocation, "_glIsEnabled": _glIsEnabled, "_glLinkProgram": _glLinkProgram, "_glPixelStorei": _glPixelStorei, "_glScissor": _glScissor, "_glShaderSource": _glShaderSource, "_glTexImage2D": _glTexImage2D, "_glTexParameteri": _glTexParameteri, "_glUniform1i": _glUniform1i, "_glUniformMatrix4fv": _glUniformMatrix4fv, "_glUseProgram": _glUseProgram, "_glVertexAttribPointer": _glVertexAttribPointer, "_glViewport": _glViewport, "_glfwCreateStandardCursor": _glfwCreateStandardCursor, "_glfwCreateWindow": _glfwCreateWindow, "_glfwGetClipboardString": _glfwGetClipboardString, "_glfwGetCursorPos": _glfwGetCursorPos, "_glfwGetFramebufferSize": _glfwGetFramebufferSize, "_glfwGetInputMode": _glfwGetInputMode, "_glfwGetJoystickAxes": _glfwGetJoystickAxes, "_glfwGetJoystickButtons": _glfwGetJoystickButtons, "_glfwGetMouseButton": _glfwGetMouseButton, "_glfwGetTime": _glfwGetTime, "_glfwGetWindowSize": _glfwGetWindowSize, "_glfwInit": _glfwInit, "_glfwMakeContextCurrent": _glfwMakeContextCurrent, "_glfwPollEvents": _glfwPollEvents, "_glfwSetCharCallback": _glfwSetCharCallback, "_glfwSetClipboardString": _glfwSetClipboardString, "_glfwSetCursor": _glfwSetCursor, "_glfwSetCursorPos": _glfwSetCursorPos, "_glfwSetErrorCallback": _glfwSetErrorCallback, "_glfwSetInputMode": _glfwSetInputMode, "_glfwSetKeyCallback": _glfwSetKeyCallback, "_glfwSetMouseButtonCallback": _glfwSetMouseButtonCallback, "_glfwSetScrollCallback": _glfwSetScrollCallback, "_glfwSwapBuffers": _glfwSwapBuffers, "_glfwSwapInterval": _glfwSwapInterval, "_glfwTerminate": _glfwTerminate, "_glfwWindowHint": _glfwWindowHint, "_glfwWindowShouldClose": _glfwWindowShouldClose, "_llvm_bswap_i64": _llvm_bswap_i64, "_llvm_cos_f32": _llvm_cos_f32, "_llvm_eh_typeid_for": _llvm_eh_typeid_for, "_llvm_sin_f32": _llvm_sin_f32, "_llvm_stackrestore": _llvm_stackrestore, "_llvm_stacksave": _llvm_stacksave, "_llvm_trap": _llvm_trap, "_pathconf": _pathconf, "_pthread_cond_wait": _pthread_cond_wait, "_pthread_getspecific": _pthread_getspecific, "_pthread_key_create": _pthread_key_create, "_pthread_mutex_destroy": _pthread_mutex_destroy, "_pthread_once": _pthread_once, "_pthread_setspecific": _pthread_setspecific, "_strftime": _strftime, "_strftime_l": _strftime_l, "emscriptenWebGLComputeImageSize": emscriptenWebGLComputeImageSize, "emscriptenWebGLGet": emscriptenWebGLGet, "emscriptenWebGLGetHeapForType": emscriptenWebGLGetHeapForType, "emscriptenWebGLGetShiftForType": emscriptenWebGLGetShiftForType, "emscriptenWebGLGetTexPixelData": emscriptenWebGLGetTexPixelData, "DYNAMICTOP_PTR": DYNAMICTOP_PTR, "tempDoublePtr": tempDoublePtr, "STACKTOP": STACKTOP, "STACK_MAX": STACK_MAX, "___dso_handle": ___dso_handle };
+Module.asmLibraryArg = { "abort": abort, "assert": assert, "enlargeMemory": enlargeMemory, "getTotalMemory": getTotalMemory, "setTempRet0": setTempRet0, "getTempRet0": getTempRet0, "abortOnCannotGrowMemory": abortOnCannotGrowMemory, "abortStackOverflow": abortStackOverflow, "nullFunc_di": nullFunc_di, "nullFunc_dii": nullFunc_dii, "nullFunc_diii": nullFunc_diii, "nullFunc_fi": nullFunc_fi, "nullFunc_fii": nullFunc_fii, "nullFunc_fiii": nullFunc_fiii, "nullFunc_i": nullFunc_i, "nullFunc_ii": nullFunc_ii, "nullFunc_iid": nullFunc_iid, "nullFunc_iidd": nullFunc_iidd, "nullFunc_iif": nullFunc_iif, "nullFunc_iii": nullFunc_iii, "nullFunc_iiif": nullFunc_iiif, "nullFunc_iiii": nullFunc_iiii, "nullFunc_iiiii": nullFunc_iiiii, "nullFunc_iiiiid": nullFunc_iiiiid, "nullFunc_iiiiii": nullFunc_iiiiii, "nullFunc_iiiiiid": nullFunc_iiiiiid, "nullFunc_iiiiiii": nullFunc_iiiiiii, "nullFunc_iiiiiiii": nullFunc_iiiiiiii, "nullFunc_iiiiiiiii": nullFunc_iiiiiiiii, "nullFunc_iiiiiiiiii": nullFunc_iiiiiiiiii, "nullFunc_iiiiiiiiiii": nullFunc_iiiiiiiiiii, "nullFunc_iiiiiiiiiiii": nullFunc_iiiiiiiiiiii, "nullFunc_iiiiiiiiiiiii": nullFunc_iiiiiiiiiiiii, "nullFunc_iiiiiiijjiii": nullFunc_iiiiiiijjiii, "nullFunc_iiiiiijjii": nullFunc_iiiiiijjii, "nullFunc_iiiiiijjiii": nullFunc_iiiiiijjiii, "nullFunc_iiiiij": nullFunc_iiiiij, "nullFunc_iij": nullFunc_iij, "nullFunc_iiji": nullFunc_iiji, "nullFunc_iijj": nullFunc_iijj, "nullFunc_ijiii": nullFunc_ijiii, "nullFunc_jd": nullFunc_jd, "nullFunc_ji": nullFunc_ji, "nullFunc_jii": nullFunc_jii, "nullFunc_jiii": nullFunc_jiii, "nullFunc_jiiii": nullFunc_jiiii, "nullFunc_v": nullFunc_v, "nullFunc_vfffiii": nullFunc_vfffiii, "nullFunc_vfii": nullFunc_vfii, "nullFunc_vi": nullFunc_vi, "nullFunc_vidd": nullFunc_vidd, "nullFunc_vif": nullFunc_vif, "nullFunc_viff": nullFunc_viff, "nullFunc_vifff": nullFunc_vifff, "nullFunc_vifffii": nullFunc_vifffii, "nullFunc_viffi": nullFunc_viffi, "nullFunc_vii": nullFunc_vii, "nullFunc_viid": nullFunc_viid, "nullFunc_viidd": nullFunc_viidd, "nullFunc_viif": nullFunc_viif, "nullFunc_viifi": nullFunc_viifi, "nullFunc_viii": nullFunc_viii, "nullFunc_viiid": nullFunc_viiid, "nullFunc_viiifii": nullFunc_viiifii, "nullFunc_viiii": nullFunc_viiii, "nullFunc_viiiii": nullFunc_viiiii, "nullFunc_viiiiii": nullFunc_viiiiii, "nullFunc_viiiiiii": nullFunc_viiiiiii, "nullFunc_viiiiiiii": nullFunc_viiiiiiii, "nullFunc_viiiiiiiiii": nullFunc_viiiiiiiiii, "nullFunc_viiiiiiiiiiiiii": nullFunc_viiiiiiiiiiiiii, "nullFunc_viiiiiiiiiiiiiii": nullFunc_viiiiiiiiiiiiiii, "nullFunc_viiiiijjii": nullFunc_viiiiijjii, "nullFunc_viiiijjii": nullFunc_viiiijjii, "nullFunc_viiiijjiii": nullFunc_viiiijjiii, "nullFunc_viiijj": nullFunc_viiijj, "nullFunc_viij": nullFunc_viij, "nullFunc_viiji": nullFunc_viiji, "nullFunc_viijii": nullFunc_viijii, "nullFunc_viijj": nullFunc_viijj, "nullFunc_viijjii": nullFunc_viijjii, "nullFunc_vij": nullFunc_vij, "nullFunc_vijii": nullFunc_vijii, "nullFunc_vijiii": nullFunc_vijiii, "nullFunc_vijiiiii": nullFunc_vijiiiii, "nullFunc_vijj": nullFunc_vijj, "nullFunc_vjii": nullFunc_vjii, "invoke_di": invoke_di, "invoke_dii": invoke_dii, "invoke_diii": invoke_diii, "invoke_fi": invoke_fi, "invoke_fii": invoke_fii, "invoke_fiii": invoke_fiii, "invoke_i": invoke_i, "invoke_ii": invoke_ii, "invoke_iid": invoke_iid, "invoke_iif": invoke_iif, "invoke_iii": invoke_iii, "invoke_iiif": invoke_iiif, "invoke_iiii": invoke_iiii, "invoke_iiiii": invoke_iiiii, "invoke_iiiiid": invoke_iiiiid, "invoke_iiiiii": invoke_iiiiii, "invoke_iiiiiii": invoke_iiiiiii, "invoke_iiiiiiii": invoke_iiiiiiii, "invoke_iiiiiiiii": invoke_iiiiiiiii, "invoke_iiiiiiiiii": invoke_iiiiiiiiii, "invoke_iiiiiiiiiii": invoke_iiiiiiiiiii, "invoke_iiiiiiiiiiii": invoke_iiiiiiiiiiii, "invoke_iiiiiiiiiiiii": invoke_iiiiiiiiiiiii, "invoke_iiiiiiijjiii": invoke_iiiiiiijjiii, "invoke_iiiiiijjii": invoke_iiiiiijjii, "invoke_iiiiiijjiii": invoke_iiiiiijjiii, "invoke_iiiiij": invoke_iiiiij, "invoke_iij": invoke_iij, "invoke_iiji": invoke_iiji, "invoke_iijj": invoke_iijj, "invoke_ijiii": invoke_ijiii, "invoke_jd": invoke_jd, "invoke_ji": invoke_ji, "invoke_jii": invoke_jii, "invoke_jiii": invoke_jiii, "invoke_jiiii": invoke_jiiii, "invoke_v": invoke_v, "invoke_vfffiii": invoke_vfffiii, "invoke_vfii": invoke_vfii, "invoke_vi": invoke_vi, "invoke_vif": invoke_vif, "invoke_viff": invoke_viff, "invoke_vifff": invoke_vifff, "invoke_vifffii": invoke_vifffii, "invoke_viffi": invoke_viffi, "invoke_vii": invoke_vii, "invoke_viidd": invoke_viidd, "invoke_viif": invoke_viif, "invoke_viifi": invoke_viifi, "invoke_viii": invoke_viii, "invoke_viiid": invoke_viiid, "invoke_viiifii": invoke_viiifii, "invoke_viiii": invoke_viiii, "invoke_viiiii": invoke_viiiii, "invoke_viiiiii": invoke_viiiiii, "invoke_viiiiiii": invoke_viiiiiii, "invoke_viiiiiiii": invoke_viiiiiiii, "invoke_viiiiiiiiii": invoke_viiiiiiiiii, "invoke_viiiiiiiiiiiiii": invoke_viiiiiiiiiiiiii, "invoke_viiiiiiiiiiiiiii": invoke_viiiiiiiiiiiiiii, "invoke_viiiiijjii": invoke_viiiiijjii, "invoke_viiiijjii": invoke_viiiijjii, "invoke_viiiijjiii": invoke_viiiijjiii, "invoke_viiijj": invoke_viiijj, "invoke_viij": invoke_viij, "invoke_viiji": invoke_viiji, "invoke_viijii": invoke_viijii, "invoke_viijj": invoke_viijj, "invoke_viijjii": invoke_viijjii, "invoke_vij": invoke_vij, "invoke_vijii": invoke_vijii, "invoke_vijiii": invoke_vijiii, "invoke_vijiiiii": invoke_vijiiiii, "invoke_vijj": invoke_vijj, "invoke_vjii": invoke_vjii, "___assert_fail": ___assert_fail, "___buildEnvironment": ___buildEnvironment, "___cxa_allocate_exception": ___cxa_allocate_exception, "___cxa_atexit": ___cxa_atexit, "___cxa_begin_catch": ___cxa_begin_catch, "___cxa_call_unexpected": ___cxa_call_unexpected, "___cxa_end_catch": ___cxa_end_catch, "___cxa_find_matching_catch": ___cxa_find_matching_catch, "___cxa_find_matching_catch_2": ___cxa_find_matching_catch_2, "___cxa_find_matching_catch_3": ___cxa_find_matching_catch_3, "___cxa_find_matching_catch_4": ___cxa_find_matching_catch_4, "___cxa_free_exception": ___cxa_free_exception, "___cxa_get_exception_ptr": ___cxa_get_exception_ptr, "___cxa_pure_virtual": ___cxa_pure_virtual, "___cxa_rethrow": ___cxa_rethrow, "___cxa_throw": ___cxa_throw, "___cxa_uncaught_exception": ___cxa_uncaught_exception, "___gxx_personality_v0": ___gxx_personality_v0, "___lock": ___lock, "___map_file": ___map_file, "___resumeException": ___resumeException, "___setErrNo": ___setErrNo, "___syscall10": ___syscall10, "___syscall12": ___syscall12, "___syscall140": ___syscall140, "___syscall145": ___syscall145, "___syscall146": ___syscall146, "___syscall183": ___syscall183, "___syscall195": ___syscall195, "___syscall196": ___syscall196, "___syscall197": ___syscall197, "___syscall220": ___syscall220, "___syscall221": ___syscall221, "___syscall295": ___syscall295, "___syscall300": ___syscall300, "___syscall306": ___syscall306, "___syscall39": ___syscall39, "___syscall40": ___syscall40, "___syscall5": ___syscall5, "___syscall54": ___syscall54, "___syscall6": ___syscall6, "___syscall83": ___syscall83, "___syscall85": ___syscall85, "___syscall9": ___syscall9, "___syscall91": ___syscall91, "___unlock": ___unlock, "__addDays": __addDays, "__arraySum": __arraySum, "__emscripten_fetch_cache_data": __emscripten_fetch_cache_data, "__emscripten_fetch_delete_cached_data": __emscripten_fetch_delete_cached_data, "__emscripten_fetch_load_cached_data": __emscripten_fetch_load_cached_data, "__emscripten_fetch_xhr": __emscripten_fetch_xhr, "__emscripten_get_fetch_work_queue": __emscripten_get_fetch_work_queue, "__exit": __exit, "__isLeapYear": __isLeapYear, "_abort": _abort, "_atexit": _atexit, "_clock_gettime": _clock_gettime, "_emscripten_force_exit": _emscripten_force_exit, "_emscripten_get_now": _emscripten_get_now, "_emscripten_get_now_is_monotonic": _emscripten_get_now_is_monotonic, "_emscripten_is_main_browser_thread": _emscripten_is_main_browser_thread, "_emscripten_is_main_runtime_thread": _emscripten_is_main_runtime_thread, "_emscripten_memcpy_big": _emscripten_memcpy_big, "_emscripten_set_main_loop": _emscripten_set_main_loop, "_emscripten_set_main_loop_timing": _emscripten_set_main_loop_timing, "_emscripten_start_fetch": _emscripten_start_fetch, "_exit": _exit, "_fpathconf": _fpathconf, "_getenv": _getenv, "_glActiveTexture": _glActiveTexture, "_glAttachShader": _glAttachShader, "_glBindBuffer": _glBindBuffer, "_glBindSampler": _glBindSampler, "_glBindTexture": _glBindTexture, "_glBindVertexArray": _glBindVertexArray, "_glBlendEquation": _glBlendEquation, "_glBlendEquationSeparate": _glBlendEquationSeparate, "_glBlendFunc": _glBlendFunc, "_glBlendFuncSeparate": _glBlendFuncSeparate, "_glBufferData": _glBufferData, "_glClear": _glClear, "_glClearColor": _glClearColor, "_glCompileShader": _glCompileShader, "_glCreateProgram": _glCreateProgram, "_glCreateShader": _glCreateShader, "_glDeleteShader": _glDeleteShader, "_glDeleteTextures": _glDeleteTextures, "_glDeleteVertexArrays": _glDeleteVertexArrays, "_glDepthFunc": _glDepthFunc, "_glDepthMask": _glDepthMask, "_glDisable": _glDisable, "_glDrawArrays": _glDrawArrays, "_glDrawElements": _glDrawElements, "_glEnable": _glEnable, "_glEnableVertexAttribArray": _glEnableVertexAttribArray, "_glGenBuffers": _glGenBuffers, "_glGenTextures": _glGenTextures, "_glGenVertexArrays": _glGenVertexArrays, "_glGenerateMipmap": _glGenerateMipmap, "_glGetAttribLocation": _glGetAttribLocation, "_glGetIntegerv": _glGetIntegerv, "_glGetProgramInfoLog": _glGetProgramInfoLog, "_glGetProgramiv": _glGetProgramiv, "_glGetShaderInfoLog": _glGetShaderInfoLog, "_glGetShaderiv": _glGetShaderiv, "_glGetUniformLocation": _glGetUniformLocation, "_glIsEnabled": _glIsEnabled, "_glLinkProgram": _glLinkProgram, "_glPixelStorei": _glPixelStorei, "_glScissor": _glScissor, "_glShaderSource": _glShaderSource, "_glTexImage2D": _glTexImage2D, "_glTexParameteri": _glTexParameteri, "_glUniform1i": _glUniform1i, "_glUniformMatrix4fv": _glUniformMatrix4fv, "_glUseProgram": _glUseProgram, "_glVertexAttribPointer": _glVertexAttribPointer, "_glViewport": _glViewport, "_glfwCreateStandardCursor": _glfwCreateStandardCursor, "_glfwCreateWindow": _glfwCreateWindow, "_glfwGetClipboardString": _glfwGetClipboardString, "_glfwGetCursorPos": _glfwGetCursorPos, "_glfwGetFramebufferSize": _glfwGetFramebufferSize, "_glfwGetInputMode": _glfwGetInputMode, "_glfwGetJoystickAxes": _glfwGetJoystickAxes, "_glfwGetJoystickButtons": _glfwGetJoystickButtons, "_glfwGetMouseButton": _glfwGetMouseButton, "_glfwGetTime": _glfwGetTime, "_glfwGetWindowSize": _glfwGetWindowSize, "_glfwInit": _glfwInit, "_glfwMakeContextCurrent": _glfwMakeContextCurrent, "_glfwPollEvents": _glfwPollEvents, "_glfwSetCharCallback": _glfwSetCharCallback, "_glfwSetClipboardString": _glfwSetClipboardString, "_glfwSetCursor": _glfwSetCursor, "_glfwSetCursorPos": _glfwSetCursorPos, "_glfwSetErrorCallback": _glfwSetErrorCallback, "_glfwSetInputMode": _glfwSetInputMode, "_glfwSetKeyCallback": _glfwSetKeyCallback, "_glfwSetMouseButtonCallback": _glfwSetMouseButtonCallback, "_glfwSetScrollCallback": _glfwSetScrollCallback, "_glfwSwapBuffers": _glfwSwapBuffers, "_glfwSwapInterval": _glfwSwapInterval, "_glfwTerminate": _glfwTerminate, "_glfwWindowHint": _glfwWindowHint, "_glfwWindowShouldClose": _glfwWindowShouldClose, "_llvm_bswap_i64": _llvm_bswap_i64, "_llvm_cos_f32": _llvm_cos_f32, "_llvm_eh_typeid_for": _llvm_eh_typeid_for, "_llvm_sin_f32": _llvm_sin_f32, "_llvm_stackrestore": _llvm_stackrestore, "_llvm_stacksave": _llvm_stacksave, "_llvm_trap": _llvm_trap, "_pathconf": _pathconf, "_pthread_cond_wait": _pthread_cond_wait, "_pthread_getspecific": _pthread_getspecific, "_pthread_key_create": _pthread_key_create, "_pthread_mutex_destroy": _pthread_mutex_destroy, "_pthread_once": _pthread_once, "_pthread_setspecific": _pthread_setspecific, "_strftime": _strftime, "_strftime_l": _strftime_l, "emscriptenWebGLComputeImageSize": emscriptenWebGLComputeImageSize, "emscriptenWebGLGet": emscriptenWebGLGet, "emscriptenWebGLGetHeapForType": emscriptenWebGLGetHeapForType, "emscriptenWebGLGetShiftForType": emscriptenWebGLGetShiftForType, "emscriptenWebGLGetTexPixelData": emscriptenWebGLGetTexPixelData, "DYNAMICTOP_PTR": DYNAMICTOP_PTR, "tempDoublePtr": tempDoublePtr, "STACKTOP": STACKTOP, "STACK_MAX": STACK_MAX, "___dso_handle": ___dso_handle };
 // EMSCRIPTEN_START_ASM
 var asm =Module["asm"]// EMSCRIPTEN_END_ASM
 (Module.asmGlobalArg, Module.asmLibraryArg, buffer);
@@ -10195,6 +10630,12 @@ var real____cxa_is_pointer_type = asm["___cxa_is_pointer_type"]; asm["___cxa_is_
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
   return real____cxa_is_pointer_type.apply(null, arguments);
+};
+
+var real____cxx_global_var_init_36 = asm["___cxx_global_var_init_36"]; asm["___cxx_global_var_init_36"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return real____cxx_global_var_init_36.apply(null, arguments);
 };
 
 var real____emscripten_environ_constructor = asm["___emscripten_environ_constructor"]; asm["___emscripten_environ_constructor"] = function() {
@@ -10431,6 +10872,10 @@ var ___cxa_is_pointer_type = Module["___cxa_is_pointer_type"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
   return Module["asm"]["___cxa_is_pointer_type"].apply(null, arguments) };
+var ___cxx_global_var_init_36 = Module["___cxx_global_var_init_36"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["___cxx_global_var_init_36"].apply(null, arguments) };
 var ___emscripten_environ_constructor = Module["___emscripten_environ_constructor"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
@@ -10531,6 +10976,10 @@ var dynCall_di = Module["dynCall_di"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
   return Module["asm"]["dynCall_di"].apply(null, arguments) };
+var dynCall_dii = Module["dynCall_dii"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["dynCall_dii"].apply(null, arguments) };
 var dynCall_diii = Module["dynCall_diii"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
@@ -10655,6 +11104,10 @@ var dynCall_ijiii = Module["dynCall_ijiii"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
   return Module["asm"]["dynCall_ijiii"].apply(null, arguments) };
+var dynCall_jd = Module["dynCall_jd"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["dynCall_jd"].apply(null, arguments) };
 var dynCall_ji = Module["dynCall_ji"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');

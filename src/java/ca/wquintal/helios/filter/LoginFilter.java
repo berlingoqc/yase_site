@@ -126,7 +126,11 @@ public class LoginFilter implements Filter {
 			isConfigurate = true;
 
 		}		
-
+		// Si on va vers les logions on laisse continuer
+		if(servletPath.startsWith("/assets")) {
+			chain.doFilter(request, response);
+			return;
+		}
 		// Si on va vers les logions on laisse continuer
 		if(servletPath.startsWith("/account")) {
 			chain.doFilter(request, response);

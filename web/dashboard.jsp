@@ -9,11 +9,17 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Dashboard</title>
+
         <jsp:include page="/shared/import.jsp" />
+	<link rel="stylesheet" href="style_global.css">
     </head>
     <body>
-        <h1>Hello World!</h1>
-        <jsp:include page="/shared/accout_option.jsp" />
+	<div class='container'>
+        <h1>Dashboard</h1>
+	<jsp:include page="/shared/yase_option.jsp"/>
+        <jsp:include page="/shared/account_option.jsp" />
+	</div>
+    <jsp:include page="/shared/footer.jsp" />
     </body>
 </html>

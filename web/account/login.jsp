@@ -174,7 +174,7 @@
 				<h2 class="sr-only">Login Form</h2>
 				<div class="illustration">
 					<i class="typcn typcn-starburst-outline"></i>
-					<h1>Helios</h1>
+					<h1>YASE</h1>
 				</div>
 				<div id="divuser" class="form-group">
 					<input class="form-control" type="text" name="user" id="user" required="true" placeholder="Utilisateur">
@@ -187,6 +187,7 @@
 				</div>
 				<a id="forgot" class="forgot">Oubliez vos informations de connection?</a>
 				<a id="newaccount" href="/helios/account/new.jsp" class="forgot">Pas encore de compte ?</a>
+				<a href="/helios/index.jsp" class="forgot">Retour a l'acceuil</a>
 			</form>
 		</div>
 		<div class="error" style='display:none'></div>

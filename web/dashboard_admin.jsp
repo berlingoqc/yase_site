@@ -23,7 +23,8 @@
         <jsp:include page="/shared/import.jsp" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Dashboard admin</title>
-	
+	<link rel="stylesheet" href="style_global.css">
+
     </head>
     
     <body>	
@@ -61,9 +62,15 @@
                 <ul class="list-group list-group-flush">
                     
                 </ul>
-		
+		<jsp:include page="/shared/yase_option.jsp" />
 		<jsp:include page="/shared/account_option.jsp" />
-		
+		<h3>Zone danger</h3>
+		<div class="row">
+			<a href="/helios/reset.jsp" class="btn btn-primary btn-block">Réinitialiser données de la BD</a>
+			<a href="/helios/reset.jsp?reset=config" class="btn btn-primary btn-block">Réinitialiser configuration BD</a>
+			<a href="/helios/reset.jsp?reset=all" class="btn btn-primary btn-block">Réinitialiser tout à zero mais cette fois comme il faut</a>
+		</div>
 	</div>
+	<jsp:include page="/shared/footer.jsp" />
     </body>
 </html>

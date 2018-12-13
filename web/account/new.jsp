@@ -161,7 +161,7 @@
 					} else  if(resp === "password") {
 						$('.error').text("Mot de passe invalide").fadeIn(400).delay(2000).fadeOut(400);
 					} else {
-						alert(resp);
+							window.location.replace('/helios/dashboard.jsp');
 					}
 				});
 				return false;
@@ -176,7 +176,7 @@
 				<h2 class="sr-only">Login Form</h2>
 				<div class="illustration">
 					<i class="typcn typcn-starburst-outline"></i>
-					<h1>Helios</h1>
+					<h1>YASE</h1>
 				</div>
 				<div id="divuser" class="form-group">
 					<input class="form-control" type="text" name="user" id="user" required="true" placeholder="Utilisateur">

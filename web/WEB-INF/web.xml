@@ -19,6 +19,38 @@
     <servlet>
         <servlet-name>YaseConfigServlet</servlet-name>
         <servlet-class>ca.wquintal.helios.api.YaseConfigServlet</servlet-class>
+        <multipart-config>
+            <max-file-size>10485760</max-file-size>
+            <max-request-size>20971520</max-request-size>
+            <file-size-threshold>5242880</file-size-threshold>
+        </multipart-config>
+    </servlet>
+    <servlet>
+        <servlet-name>YaseTextureServlet</servlet-name>
+        <servlet-class>ca.wquintal.helios.api.YaseTextureServlet</servlet-class>
+        <multipart-config>
+            <max-file-size>10485760</max-file-size>
+            <max-request-size>20971520</max-request-size>
+            <file-size-threshold>5242880</file-size-threshold>
+        </multipart-config>
+    </servlet>
+    <servlet>
+        <servlet-name>YaseModelServlet</servlet-name>
+        <servlet-class>ca.wquintal.helios.api.YaseModelServlet</servlet-class>
+        <multipart-config>
+            <max-file-size>10485760</max-file-size>
+            <max-request-size>20971520</max-request-size>
+            <file-size-threshold>5242880</file-size-threshold>
+        </multipart-config>
+    </servlet>
+    <servlet>
+        <servlet-name>YaseSkyBoxServlet</servlet-name>
+        <servlet-class>ca.wquintal.helios.api.YaseSkyBoxServlet</servlet-class>
+        <multipart-config>
+            <max-file-size>10485760</max-file-size>
+            <max-request-size>20971520</max-request-size>
+            <file-size-threshold>5242880</file-size-threshold>
+        </multipart-config>
     </servlet>
     <servlet-mapping>
         <servlet-name>config</servlet-name>
@@ -31,6 +63,18 @@
     <servlet-mapping>
         <servlet-name>YaseConfigServlet</servlet-name>
         <url-pattern>/api/yase/config</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>YaseTextureServlet</servlet-name>
+        <url-pattern>/api/yase/texture</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>YaseModelServlet</servlet-name>
+        <url-pattern>/api/yase/model</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>YaseSkyBoxServlet</servlet-name>
+        <url-pattern>/api/yase/skybox</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
